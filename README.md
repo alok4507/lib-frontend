@@ -1,3 +1,6 @@
+
+# For admin access
+Signup with email:"alok@admin.com" with any password. it will give you the admin permission
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
